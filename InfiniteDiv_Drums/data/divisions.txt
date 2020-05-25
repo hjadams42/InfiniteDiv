@@ -1,0 +1,8 @@
+1, 1 0 0 whole;
+2, 0 2 0 half;
+3, 0 1 160 third;
+4, 0 1 0 quarter;
+5, 0 0 320 sixth;
+6, 0 0 240 eighth;
+7, 0 0 160 twelfth;
+8, 2 0 0 OFF;
